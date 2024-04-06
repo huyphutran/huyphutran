@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phu Tran</h1>
 <h3 align="center">A passionate back end developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on **Redis**
 
 - 🌱 I’m currently learning **Redis**
 
@@ -9,7 +8,8 @@
 
 - 💬 Ask me about **.Net, MS SQL,C#**
 
-- 📫 How to reach me **tranhuyphuhp75@mgail.com**
+- 📫 How to reach me [Click me](mailto:tranhuyphuhp75@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
